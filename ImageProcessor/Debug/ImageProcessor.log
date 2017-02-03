@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(16): warning C4244: '-=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(17): warning C4244: '-=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(18): warning C4244: '-=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(36): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(37): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(38): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+e:\visual studio projects\c++\imageprocessor\imageprocessor\main.cpp(195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ImageProcessor.vcxproj -> E:\Visual Studio Projects\C++\ImageProcessor\Debug\ImageProcessor.exe
+  ImageProcessor.vcxproj -> E:\Visual Studio Projects\C++\ImageProcessor\Debug\ImageProcessor.pdb (Partial PDB)
